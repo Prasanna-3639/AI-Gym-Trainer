@@ -1,0 +1,10 @@
+tensorflow
+keras
+opencv-python
+mediapipe
+numpy
+scikit-learn
+joblib
+streamlit
+streamlit-webrtc
+av
